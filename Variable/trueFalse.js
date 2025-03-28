@@ -28,6 +28,21 @@ hasMoney = false;
 isHungry = true;
 console.log( isHappy,hasMoney,isHungry);
 
+// my homeWork is not done yet
+const hasStudyDone = false;
+console.log(hasStudyDone);
+
+// My phone is charging now
+const isPhoneCharging = true;
+console.log(isPhoneCharging);
+
+// My diner is done
+const isDinerDone = true;
+console.log(isDinerDone);
+
+
+
+
 
 
 

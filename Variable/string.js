@@ -39,7 +39,7 @@ console.log(cooking);
 
 // my favorite color is white
 const myColor = 'white'
-console.log(myColor);
+console.log(myColor)
 
 
 
