@@ -145,4 +145,43 @@
 // console.log(index);
 
 
+// practice 
+// const fruits = ['mango', 'banana', 'lichi','apple']
+// if(fruits.includes('mango')){
+//     console.log('mango ace');
+    
+// }else{
+//     console.log('mango nai gase ud');
+    
+// }
 
+
+// const dakNmae = ['Babul','Alif', 'Choton']
+// console.log(dakNmae.indexOf('Babul'));
+
+
+// const friends = ['Rimon', 'Rifat', 'Rajib']
+// console.log(friends.indexOf('Rifat'));
+
+
+// const cities = ['Dhaka', 'Chittagong', 'Sylhet']
+// cities.push('rajshahi')
+// if(cities.includes('Rajshahi')){
+//     console.log('Rajshahi ace');
+    
+// }else{
+//     console.log('Rajshahi nai');
+    
+// }
+
+// const umberalla = ['meg', 'bristi', 'borsa']
+// if(umberalla.includes('bristi')){
+//     console.log('I need Umberalla');
+    
+// }else{
+//     console.log('No rain no pain');
+    
+// }
+
+// const sports = ['Football', 'Cricket', 'Boliball']
+// console.log(sports.includes('Badminton'));
